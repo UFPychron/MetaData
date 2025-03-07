@@ -14,7 +14,7 @@ def main():
 
     set_time_zero()
 
-    sniff(40)
+    sniff(30)
     set_fits()
     set_baseline_fits()
 
